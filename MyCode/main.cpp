@@ -5,6 +5,6 @@ using namespace std;
 
 int main() {
 	// test 
-	// rebase test
+	// branch test
 	return 0;
 }
